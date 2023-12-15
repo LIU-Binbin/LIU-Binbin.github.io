@@ -1,0 +1,45 @@
+---
+layout: page
+title: Binbin Liu's Homepage
+permalink: /
+---
+
+
+{% include image.html url="images/photo1.jpg" caption="" width="220px"  align="left" %}
+<!--<h1 class="center">Binbin LIU</h1> -->
+
+Greetings! I graduated with a master in physics from Beihang University, Beijing, China, with theoritical and computational focuses. I was co-advised by [Prof. Xian-Lei Sheng](https://scholar.google.com/citations?user=MDetOEgAAAAJ) at Beihang University and [Prof. Shengyuan A. Yang](https://scholar.google.com/citations?user=Q-eIAcIAAAAJ) at University of Macau.   
+
+My past research is on investigating electronic materials and meta-materials from both **first-prinples** calculations and theoretical modeling. I am interested in studying topological properties, correlation effect and dynamics (responding to light and heat), in novel and experimentally realizable systems such as moir'e heterostructure, kagome metal, cold atoms, acoustic and electric circuits that can build devices with potential in advancing our technologies. I'm also interested in applying/developing electronic structure theory and combining with the state-of-the-art AI to advance our understanding of materials.
+ 
+## Short CV
+2020-2023: M. S. in Physics, School of Physics, Beihang University, Beijing, China. <br />
+2016-2020: B. S. in Applied Physics, Honors College, Beihang University, Beijing, China. <br />
+You can also [view my latest full CV here](assets/CV_BinBin_Liu.pdf).
+
+
+## Publications
+[1] **Binbin Liu** et al., _Second-order and real Chern topological insulator in twisted bilayer α-
+graphyne_, [Phys. Rev. B 106, 035153 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035153). [[PDF](assets/papers/PhysRevB.106.035153.pdf)]<br />
+[2] Wang Yang\*, **Binbin Liu\***, Yue-Xin Huang\*, et al., _Large bilinear magnetoresistance from Rashba spin-splitting on the surface of a topological insulator_, [Phys. Rev. B 106, L241401 (2022), (Letter)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L241401). [[PDF](assets/papers/PhysRevB.106.L241401.pdf)] <br />
+[3] Xu-Tao Zeng, **Binbin Liu**, et al., _Three-dimensional real Chern insulator in bulk γ-graphyne_, [arXiv: 2302.13090](https://arxiv.org/abs/2302.13090). (Submitted to PRB.) [[PDF](https://arxiv.org/pdf/2302.13090.pdf)]<br />
+[4] **Binbin Liu†**, Xian-Lei Sheng†, Yuxin Zhao† and Shengyuan A. Yang, [_Non-centered inversion symmetry in momentum space_](/ResearchHighlights/). (To be submitted to PRL.)  [[PDF](assets/papers/MomentumNonCenteredInv_main.pdf)]<br />
+[5] Xu-Tao Zeng, Ziyu Chen, Cong Chen, **Binbin Liu**, et al., _Topological hinge modes in Dirac semimetals_, [Front. Phys. 18, 13308 (2023)](https://link.springer.com/article/10.1007/s11467-022-1221-y). [[PDF](https://arxiv.org/pdf/2203.05168.pdf)]<br />
+[6] **Binbin Liu** et al., _First and second-order topological insulator in 2D elementary materials_.
+(Invited review, in preparation.) <br />
+[7] **Binbin Liu**, _Spinless eightfold fermions from projective symmetries_. (In preparation.) <br />
+[8] **Binbin Liu** and Chueng Ji, _Anatomy of nucleon self-energy from equal-time to light-front_.
+(To be submitted to PRD.) <br />
+(* equal contributions, †correspondence) <br />
+
+
+## Contact
+Email: [bbliu@buaa.edu.cn]
+
+
+<!-- 
+Binbin LIU, Beihang University <br />
+[Yavin] <br />-->
+[Yavin]: https://en.wikipedia.org/wiki/Yavin
+
+[bbliu@buaa.edu.cn]: mailto:bbliu@buaa.edu.cn
