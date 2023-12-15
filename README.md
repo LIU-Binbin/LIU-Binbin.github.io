@@ -1,7 +1,4 @@
-# My website
-
-A place to share my research activities and news. 
-
----
-_Using Academic jekyll theme, avaiable under [MIT License](https://opensource.org/licenses/MIT)._
-
+Personal website of Binbin (Jekyll Theme)
+===========================
+This Jekyll theme is adopted from "[much-worse-jekyll-theme]([http://joelglovier.com/](https://github.com/gchauras/much-worse-jekyll-theme))" 
+You can see my site at [liu-binbin.github.io](http://liu-binbin.github.io).
