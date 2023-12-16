@@ -12,7 +12,7 @@ We identified twisted bilayer α-graphyne and γ-graphyne as second-order topolo
 - **Binbin Liu** et al., _Second-order and real Chern topological insulator in twisted bilayer α-graphyne_, [Phys. Rev. B 106, 035153 (2022)](https://journals.aps.org/prb/export/10.1103/PhysRevB.106.035153).<br />
 - Xu-Tao Zeng, **Binbin Liu**, et al., _Three-dimensional real Chern insulator in bulk γ-graphyne_, [arXiv: 2302.13090](https://arxiv.org/abs/2302.13090). (Submitted to PRB.) 
 
-
+<a name="noncenter"></a>
 ## Non-centered Inversion Symmetry in Momentum Space <br />
 {% include image.html url="/assets/research/non-centerBZ.png" caption="" width="260px" align="left" %}
 <!--We discovered non-centered inversion symmetries in the momentum space from projective
@@ -28,6 +28,7 @@ We discover a new form of inversion symmetry that inverses the real space positi
 With the MNCIS, we discover very interesting states that have not been reported before, such as Mobius insulators with shifted-inverse edge states and a high Chern number insulator that has off-centered chiral edge states. We also define quantized topological numbers that capture the topology enforced by the MNCIS. To realize our theory, we design topological circuits to simulate our model Hamiltonians, which suggest new routes for exploring artificial systems and metamaterials with projective symmetries.<br />
 
 - **Binbin Liu†**, Xian-Lei Sheng†, Zeying Zhang and Shengyuan A. Yang, _Non-centered inversion symmetry in momentum space_.  [[PDF](assets/papers/MomentumNonCenteredInv_main.pdf)]
+- Binbin Liu et. al, Non-centered inversion symmetry in momentum space.  https://m.koushare.com/video/videodetail/68878.  Nanjing.
 
 ## Large Bilinear Magnetoresistance (BMR) from Rashba Spin-Splitting on the Surface of a Topological Insulator <br />
 {% include image.html url="/assets/research/rashba-bmr.png" caption="" width="260px" align="right" %}
