@@ -3,12 +3,12 @@ layout: page
 title: Binbin Liu's Homepage
 permalink: /
 ---
-{% include image.html url="assets/images/photo1.jpg" caption="" width="180px"  align="left" %}
+{% include image.html url="assets/images/photo1.png" caption="" width="180px"  align="left" %}
 <!--<h1 class="center">Binbin LIU</h1> -->
 
 Greetings! I graduated with a master in physics from Beihang University, Beijing, China, with theoritical and computational focuses. I was co-advised by [Prof. Xian-Lei Sheng](https://scholar.google.com/citations?user=MDetOEgAAAAJ) at Beihang University and [Prof. Shengyuan A. Yang](https://scholar.google.com/citations?user=Q-eIAcIAAAAJ) at University of Macau. I finished my bachelor thesis in [Prof. Chueng Ji](https://inspirehep.net/authors/1004349)'s group at NC State, working on nucleons in the light-front dynamics. 
 
-My master's research is mainly on investigating electronic materials and meta-materials from both **first-prinples** calculations and theoretical modeling. I am interested in studying topological properties, correlation effect and dynamics (responding to light and heat), in novel and experimentally realizable systems such as moir'e heterostructure, kagome metal, cold atoms, acoustic and electric circuits that can build devices with potential in advancing our technologies. I'm also interested in applying/developing electronic structure theory and combining with the state-of-the-art AI to advance our understanding of materials.
+My master's research is mainly on investigating electronic materials and meta-materials from both **first-principles** calculations and theoretical modeling. I am interested in studying topological properties, correlation effect and dynamics (responding to light and heat), in novel and experimentally realizable systems such as moir'e heterostructure, kagome metal, cold atoms, acoustic and electric circuits that can build devices with potential in advancing our technologies. I'm also interested in applying/developing electronic structure theory and combining with the state-of-the-art AI to advance our understanding of materials.
 
 <!--development and use of computational methods combining electronic structure and many-body approaches for explaining and predicting properties of materials with strong electronic correlations, and a strong research agenda in the field of quantum materials.-->
  

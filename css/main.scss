@@ -6,6 +6,7 @@
 $base-font-family: 'EB Garamond', serif;
 $base-font-size:   x-large;
 $small-font-size:  0.875em;
+$large-font-size:  1.2em;
 $vsmall-font-size: 0.66em;
 $base-line-height: 1.5;
 $spacing-unit:     1.5em;
@@ -22,18 +23,18 @@ $red:        #b6321c;
 $white:      #ffffff;
 
 
-$background: linear-gradient(to bottom, white 0%, white 100%, $dsblue 100%, $dsblue 100%);
+$background:  #ffffff;/*#f0f0f0;*/
+/*linear-gradient(to bottom, white 0%, white 100%, $dsblue 100%, $dsblue 100%); */
 $margin-color: $red;
 $dark-background:   darken($grey-vlight, 5%);
 $text-color:        $grey-vdark;
 $text-light-color:  $grey;
 $url-color:         $dsblue;
 $url-hover-color:   $blue;
+$line-color:        $grey-light;
 $header-text-color: $text-light-color;
 $header-hover-color:$text-color;
 $header-hover-url:  $url-color;
-$line-color:        $grey-light;
-
 
 
 // Width of the content area
@@ -59,15 +60,34 @@ $desktop:          50em;
     "fancy-image"
 ;
 
-h1 {
-  text-align: center;
-  font-weight: normal;
-  font-family: Olive Village;
-  font-size: 60px;
+
+a:hover {
+   /* color: #007bff;设置链接文本颜色 */
+  text-decoration: underline; /* 鼠标悬停时显示下划线 */
 }
+
 
 .center {
   text-align: center;
-  font-size: 60px;
-  font-weight: normal;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+  background-color: $background;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Arial', sans-serif; /*font-family: Olive Village;*/
+  font-size: 36px;
+}
+
+h1, h2, h3 {
+  color: #02171c;
 }
