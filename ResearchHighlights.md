@@ -27,7 +27,8 @@ We discover a new form of inversion symmetry that inverses the real space positi
 
 With the MNCIS, we discover very interesting states that have not been reported before, such as Mobius insulators with shifted-inverse edge states and a high Chern number insulator that has off-centered chiral edge states. We also define quantized topological numbers that capture the topology enforced by the MNCIS. To realize our theory, we design topological circuits to simulate our model Hamiltonians, which suggest new routes for exploring artificial systems and metamaterials with projective symmetries.<br />
 
-- **Binbin Liu†**, Xian-Lei Sheng†, Zeying Zhang and Shengyuan A. Yang, _Non-centered inversion symmetry in momentum space_.  [[PDF](assets/papers/MomentumNonCenteredInv_main.pdf)]
+- **Binbin Liu$$^†$$**, Xian-Lei Sheng$$^†$$, Zeying Zhang and Shengyuan A. Yang, _Non-centered inversion symmetry in momentum space_.  
+<!--[[PDF](assets/papers/MomentumNonCenteredInv_main.pdf)]-->
 - Binbin Liu et. al, Non-centered inversion symmetry in momentum space.  [https://m.koushare.com/video/videodetail/68878](https://m.koushare.com/video/videodetail/68878).  Nanjing.
 
 ## Large Bilinear Magnetoresistance (BMR) from Rashba Spin-Splitting on the Surface of a Topological Insulator <br />
