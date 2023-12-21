@@ -14,7 +14,7 @@ We identified twisted bilayer α-graphyne and γ-graphyne as second-order topolo
 
 <a name="noncenter"></a>
 ## Projective Symmetry Enriched Berry Curvature Effects in Space and Time Invariant Crystals <br />
-{% include image.html url="/assets/research/non-centerBC.PNG" caption="Berry Curvature under P and T" width="200px" align="left" %}
+{% include image.html url="/assets/research/non-centerBC.png" caption="Berry Curvature under P and T" width="200px" align="left" %}
 <!--We discovered non-centered inversion symmetries in the momentum space from projective
 symmetry algebras, identified and characterized novel twisted inverse topological edge
 states with off-centered crossing points in the momentum space, distinct from edge
@@ -23,7 +23,7 @@ simulate the nontrivial states.
 The spacial inversion symmetry inverses the position and momentum of a physical system relative to the original point. Here,
 -->
 We explore the plane group $$P_{2}$$ and space group $$C_{i}$$ under projective representations while maintaining time-reversal symmetry. Our investigation reveals various Berry curvature effects induced by the projective symmetry algebra. In a 2D system with both inversion and time-reversal symmetries, the Berry curvature universally vanishes in the Brillouin zone. 
-{% include image.html url="/assets/research/Weyl.PNG" caption="Weyl Points under P and T" width="200px" align="right" %} 
+{% include image.html url="/assets/research/Weyl.png" caption="Weyl Points under P and T" width="200px" align="right" %} 
 However, when the inversion symmetry is projectively represented, finite band geometric curvatures emerge, leading to topologically nontrivial valley and edge effects.
 In 3D, certain magnetic space groups, such as the $$C_{i}$$ group, do not support the emergence of Weyl points. We demonstrate that under projective representations, both charge 2 and charge 1 Weyl points can occur in the $$C_{i}$$ magnetic space group. This suggests that emergent particles in projectively represented magnetic space groups can exhibit distinct characteristics from their normal counterparts. Our work identifies a new research direction in exploring the variety of emergent particles within projective symmetry groups.
 <br />
