@@ -16,7 +16,7 @@ My master's research primarily focuses on investigating electronic materials and
 ## Short CV
 2020-2023: M. S. in Physics, School of Physics, Beihang University, Beijing, China. <br />
 2016-2020: B. S. in Applied Physics, Honors College, Beihang University, Beijing, China. <br />
-You can also [view my latest full CV here](assets/CV_BinBin_Liu.pdf).
+You can also [view my latest full CV here](assets/CV_Binbin_Liu.pdf).
 
 
 ## Publications
