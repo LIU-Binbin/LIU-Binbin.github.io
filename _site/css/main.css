@@ -630,7 +630,8 @@ ul.listing li.listing-item a {
 .captioned-img {
   text-align: center;
   border: none;
-  font-size: 0.66em;
+  font-size: 1em;
+  font-style: italic;
   overflow: hidden;
 }
 

@@ -9,7 +9,7 @@ permalink: /misc/
 [[PDF](https://indico.cern.ch/event/938795/contributions/4605279/attachments/2357412/4023279/BinbinLiu_talk_LC2021.pdf)]
 
 ## Internships
-- Research intern, MindQuantum, Huawei, China, 10.2023-12.2023. *Topics:* Materials and atoms simulation with quantum circuits using [MindQuantum ](https://gitee.com/mindspore/mindquantum) (Similar like [Qiskit](https://www.ibm.com/quantum/qiskit)). [Here](https://gitee.com/leo-phys/mindquantum/blob/education/homework/Leo/homework_BinbinLIU.ipynb)
+- Research intern, MindQuantum, Huawei, China, 10.2023-12.2023. *Topics:* Materials and atoms simulation with quantum circuits using [MindQuantum ](https://gitee.com/mindspore/mindquantum) (similar like [Qiskit](https://www.ibm.com/quantum/qiskit)). [Here](https://gitee.com/leo-phys/mindquantum/blob/education/homework/Leo/homework_BinbinLIU.ipynb)
 <!--(https://github.com/LIU-Binbin/mindquantum/blob/education/homework/Leo/homework_BinbinLIU.ipynb)--> is demo script applying quantum circuits to simulate the ground-state energy of a Hamiltonian of Hydrogen molecules.
 
 - Research intern, North Carolina State University, USA, 03.2019-10.2019. *Topics:* [Anatomy of Nucleon Self-energy from Instant to Light-Front](https://crjiresearchgroup.wordpress.ncsu.edu/group-meetings/archives-liu-binbin/), *advisor:* Dr. Chueng Ji. (Undergraduate thesis project.)
