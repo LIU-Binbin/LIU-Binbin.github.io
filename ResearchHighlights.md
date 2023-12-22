@@ -40,4 +40,7 @@ We discover Rashba spin-splitting quantum well states developed near the surface
 - Wang Yang\*, **Binbin Liu\***, Yue-Xin Huang\*, et al., _Large bilinear magnetoresistance from Rashba spin-splitting on the surface of a topological insulator_, [Phys. Rev. B 106, L241401 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L241401). [[PDF](https://arxiv.org/pdf/2209.07666.pdf)] <br />
 
 ## Threefold relativistic crossings in moiré heterostructure Bi/FeCl$$_{2}$$ <br />
-Our experiment discovered a relativistic crossing at K point of the mini Brillouin zone formed by a moiré structures of Bismuth on a FeCl$$_{2}$$ substrate. We developed a theoretical effective model combined with first-principle calculations to elucidate the origin of the moiré-induced particles.
+{% include image.html url="/assets/research/Threefold.png" caption="Threefold reletivistic crossing" width="180px" align="right" %} 
+Our experiment discovered a relativistic crossings at K point of the mini Brillouin zone in a moiré structures formed by several layers of Bismuth on top of a FeCl$$_{2}$$ substrate. We developed a theoretical effective model combined with first-principle calculations to elucidate the origin of the moiré-induced threefold relativistic particles. We highlighted that the threefold degeneracy in our experiment is due to the band warping effect for the surface bands at Fermi level.
+
+- _Threefold relativistic particles in moiré heterostructure Bi/FeCl$$_{2}$$_. (In preparation. Theory First Author.)
