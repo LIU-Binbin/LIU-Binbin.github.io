@@ -24,14 +24,14 @@ The spacial inversion symmetry inverses the position and momentum of a physical 
 -->
 We explore the plane group $$P_{2}$$ and space group $$C_{i}$$ under projective representations while maintaining time-reversal symmetry. Our investigation reveals various Berry curvature effects induced by the projective symmetry algebra. In a 2D system with both inversion and time-reversal symmetries, the Berry curvature universally vanishes in the Brillouin zone. 
 {% include image.html url="/assets/research/Weyl.png" caption="Weyl Points under P and T" width="200px" align="right" %} 
-However, when the inversion symmetry is projectively represented, finite band geometric curvatures emerge, leading to topologically nontrivial valley and edge effects.
+However, when the inversion symmetry is projectively represented, finite band geometric curvatures emerge, leading to topologically nontrivial valley and edge effects. We design circuit modules to simulate the topological edge states, which may have potential applications in  electronic devices for parallel and analogue computing. 
 In 3D, certain magnetic space groups, such as the $$C_{i}$$ group, do not support the emergence of Weyl points. We demonstrate that under projective representations, both charge 2 and charge 1 Weyl points can occur in the $$C_{i}$$ magnetic space group. This suggests that emergent particles in projectively represented magnetic space groups can exhibit distinct characteristics from their normal counterparts. Our work identifies a new research direction in exploring the variety of emergent particles within projective symmetry groups.
 <br />
 
-- **Binbin Liu$$^\dagger$$**, Zeying Zhang, Xian-Lei Sheng$$^\dagger$$ and Shengyuan A. Yang, _Projective Symmetry Enriched Berry Curvature Effects in Space and Time Invariant Crystals_.  
+- **Binbin Liu$$^†$$**, Zeying Zhang, Xian-Lei Sheng$$^†$$, Yuxin Zhao and Shengyuan A. Yang, [_Projective Symmetry Enriched Berry Curvature Effects in Space and Time Invariant Crystals_](/ResearchHighlights/#noncenter). ([To be submitted](/assets/publications/Projective_Symmetry.pdf) to PRL.)
 <!--[[PDF](assets/papers/MomentumNonCenteredInv_main.pdf)]-->
 - Binbin Liu et. al, Non-centered inversion symmetry in momentum space.  [https://m.koushare.com/video/videodetail/68878](https://m.koushare.com/video/videodetail/68878).  Nanjing.
-- A [Code](https://github.com/LIU-Binbin/ProjectiveSymm-TB) to abtain the Hamiltonian with projective symmetry in this work.
+- The [Code](https://github.com/LIU-Binbin/ProjectiveSymm-TB) to abtain the Hamiltonian with projective symmetry in this work.
 
 ## Large Bilinear Magnetoresistance (BMR) from Rashba Spin-Splitting on the Surface of a Topological Insulator <br />
 {% include image.html url="/assets/research/rashba-bmr.png" caption="The Rashba state and BMR" width="180px" align="right" %}
