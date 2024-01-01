@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Binbin Liu's Homepage
+title: Homepage
 permalink: /
 ---
 {% include image.html url="assets/images/photo1.png" caption="" width="180px"  align="left" %}
