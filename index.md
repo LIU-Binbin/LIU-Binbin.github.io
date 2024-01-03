@@ -25,7 +25,7 @@ graphyne_, [Phys. Rev. B 106, 035153 (2022)](https://journals.aps.org/prb/abstra
 [3] Xu-Tao Zeng, **Binbin Liu**, et al., _Three-dimensional real Chern insulator in bulk γ-graphyne_, [Phys. Rev. B 108, 075159 (2023).](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.075159) [[PDF](https://arxiv.org/pdf/2302.13090.pdf)]<br />
 [4] **Binbin Liu$$^†$$**, Zeying Zhang, Xian-Lei Sheng$$^†$$ and Shengyuan A. Yang, _Projective Symmetry Induced Berry Curvature Effects in Space and Time Inversion Invariant Crystals_. ([To be submitted](/assets/publications/MomentumNonCenteredInv_main_Sup_07.pdf) to PRL.)  <br />
 [5] Xu-Tao Zeng, Ziyu Chen, Cong Chen, **Binbin Liu**, et al., _Topological hinge modes in Dirac semimetals_, [Front. Phys. 18, 13308 (2023)](https://link.springer.com/article/10.1007/s11467-022-1221-y). [[PDF](https://arxiv.org/pdf/2203.05168.pdf)]<br />
-[6] _Threefold relativistic particles in moiré heterostructure Bi/FeCl$$_{2}$$_. (In preparation with experiments. [Theory First Author.](/assets/publications/Moire_Bi.pdf))<br />
+[6] _Threefold relativistic particles in moiré heterostructure Bi/FeCl$$_{2}$$_. (In preparation with experiments. [Theory](/assets/publications/Moire_Bi.pdf) first author.)<br />
 [7] **Binbin Liu** et al., _First and second-order topological insulator in 2D elementary materials_.
 (Invited review, in preparation.) <br />
 [8] **Binbin Liu** and Chueng Ji, _Anatomy of nucleon self-energy from equal-time to light-front_.
