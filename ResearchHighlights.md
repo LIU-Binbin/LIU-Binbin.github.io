@@ -43,4 +43,4 @@ We discover Rashba spin-splitting quantum well states developed near the surface
 {% include image.html url="/assets/research/Threefold.png" caption="Threefold reletivistic crossing" width="200px" align="right" %} 
 Our experiment discovered a relativistic crossings at K point of the mini Brillouin zone in a moiré structures formed by several layers of Bismuth on top of a FeCl$$_{2}$$ substrate. We developed a theoretical effective model combined with first-principle calculations to elucidate the origin of the moiré-induced threefold relativistic particles. We highlighted that the threefold degeneracy in our experiment is due to the band warping effect for the surface bands at Fermi level.
 
-- _Threefold relativistic particles in moiré heterostructure Bi/FeCl$$_{2}$$_. (In preparation. Theory First Author.)
+- _Threefold relativistic particles in moiré heterostructure Bi/FeCl$$_{2}$$_. (In preparation with experiments. [Theory First Author.](/assets/publications/Moire_Bi.pdf))
