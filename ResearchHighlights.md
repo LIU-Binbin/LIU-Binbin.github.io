@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research Highlights
-permalink: /ResearchHighlights/
+title: Research 
+permalink: /ResearchHighlight/
 ---
 
 ## Higher-order Topology in Graphyne Families <br />
@@ -28,7 +28,7 @@ However, when the inversion symmetry is projectively represented, finite band ge
 In 3D, certain magnetic space groups, such as the $$C_{i}$$ group, do not support the emergence of Weyl points. We demonstrate that under projective representations, both charge 2 and charge 1 Weyl points can occur in the $$C_{i}$$ magnetic space group. This suggests that emergent particles in projectively represented magnetic space groups can exhibit distinct characteristics from their normal counterparts. Our work identifies a new research direction in exploring the variety of emergent particles within projective symmetry groups.
 <br />
 
-- **Binbin Liu$$^†$$**, Zeying Zhang, Xian-Lei Sheng$$^†$$ and Shengyuan A. Yang, _Projective Symmetry Induced Berry Curvature Effects in Space and Time Inversion Invariant Crystals_. ([To be submitted](/assets/publications/MomentumNonCenteredInv_main_Sup_07.pdf) to PRL.)
+- **Binbin Liu$$^†$$**, Zeying Zhang, Xian-Lei Sheng$$^†$$ and Shengyuan A. Yang, _Projective Symmetry Induced Berry Curvature Effects in Space and Time Inversion Invariant Crystals_. <!--([To be submitted](/assets/publications/MomentumNonCenteredInv_main_Sup_07.pdf) to PRL.)-->
 <!--[[PDF](assets/papers/MomentumNonCenteredInv_main.pdf)]-->
 - Binbin Liu et. al, Non-centered inversion symmetry in momentum space.  [https://m.koushare.com/video/videodetail/68878](https://m.koushare.com/video/videodetail/68878).  Nanjing.
 - The [Code](https://github.com/LIU-Binbin/ProjectiveSymm-TB) to abtain the Hamiltonian with projective symmetry in this work.
@@ -43,4 +43,4 @@ We discover Rashba spin-splitting quantum well states developed near the surface
 {% include image.html url="/assets/research/Threefold.png" caption="Threefold reletivistic crossing" width="200px" align="right" %} 
 Our experiment discovered a relativistic crossings at K point of the mini Brillouin zone in a moiré structures formed by several layers of Bismuth on top of a FeCl$$_{2}$$ substrate. We developed a theoretical effective model combined with first-principle calculations to elucidate the origin of the moiré-induced threefold relativistic particles. We highlighted that the threefold degeneracy in our experiment is due to the band warping effect for the surface bands at Fermi level.
 
-- _Threefold relativistic particles in moiré heterostructure Bi/FeCl$$_{2}$$_. (In preparation with experiments. [Theory](/assets/publications/Moire_Bi.pdf) first author.)
+- _Threefold relativistic particles in moiré heterostructure Bi/FeCl$$_{2}$$_. (In preparation with experiments. Theory first author.) <!--(/assets/publications/Moire_Bi.pdf)-->
