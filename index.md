@@ -1,14 +1,24 @@
 ---
 layout: page
-title: Homepage
+title: 
 permalink: /
 ---
-{% include image.html url="assets/images/photo1.png" caption="" width="80px"  align="left" %}
+{% include image.html url="assets/images/photo1.png" caption="" width="120px"  align="left" %}
 
 <!--<h1 class="center">Binbin LIU</h1> -->
 
-Hi! I am Binbin Liu, and I graduated with a master's in physics from Beihang University, Beijing, China, focusing on theory and computation. I was co-advised by [Prof. Xian-Lei Sheng](https://scholar.google.com/citations?user=MDetOEgAAAAJ) at Beihang University and [Prof. Shengyuan A. Yang](https://scholar.google.com/citations?user=Q-eIAcIAAAAJ) at the University of Macau. I completed my bachelor's thesis in [Prof. Chueng Ji](https://inspirehep.net/authors/1004349)'s group at NC State, USA, working on light-front dynamics of particles.
+Hi! I am Binbin Liu, a condensed matter physics researcher focusing on theory and computation. I am interested in exploring electron-phonon interactions in real materials from _ab initio_ calculations. 
+Finding a novel ductile ambient-pressure superconductors with a high critical temperature could revolutionize the energy transmission and storage technologies. 
+My interests lie in studying the exciton, polaron and electron-phonon superconductivity in novel materials for energy-efficient applications, addressing critical challenges in energy conservation and environmental sustainability. 
+
+ 
+
 <!--
+My master's degree was co-advised by [Prof. Xian-Lei Sheng](https://scholar.google.com/citations?user=MDetOEgAAAAJ) at Beihang University and [Prof. Shengyuan A. Yang](https://scholar.google.com/citations?user=Q-eIAcIAAAAJ) at the University of Macau. I completed my bachelor's thesis in [Prof. Chueng Ji](https://inspirehep.net/authors/1004349)'s group at NC State, USA, working on light-front dynamics of particles.
+
+**excitations**, electron-phonon **correlations**, and **topological** properties in novel and experimentally realizable systems such as 2D materials, moiré heterostructures, kagome materials, and metamaterials.
+
+
 My master's research primarily focuses on investigating electronic materials and metamaterials through **first-principles** calculations and theoretical modeling. I am interested in studying **excitations**, strong **correlations**, and **topological** properties in novel and experimentally realizable systems such as 2D materials, moiré heterostructures, kagome materials, and metamaterials. <!--These areas have significant potential for applications in electronic devices. 
 I am also excited about developing and applying electronic structure theories to advance our understanding of materials for potential device applications.
 -->

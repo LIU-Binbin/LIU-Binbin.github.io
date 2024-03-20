@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Miscellaneous
-permalink: /miscwww/
+permalink: /misc/
 ---
 ## Conference Presentations
 - Non-centered inversion symmetry in momentum space, Nanjing University, China. *05. 2023* [[Abstract](/ResearchHighlights/#noncenter)][[DOI](https://dx.doi.org/10.12351/ks.2310.1276)]
