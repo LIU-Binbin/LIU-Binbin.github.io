@@ -3,10 +3,9 @@ layout: page
 title:  
 permalink: /ResearchHighlights/
 ---
-
 ## Higher-order Topology in Graphyne Families <br />
-{% include image.html url="/assets/research/tbgpy.png" caption="Twisted bilayer α-graphyne" width="180px" align="left" %}
 {% include image.html url="/assets/research/3dgpy.png" caption="γ-graphyne" width="180px" align="right" %}
+{% include image.html url="/assets/research/tbgpy.png" caption="Twisted bilayer α-graphyne" width="180px" align="left" %}
 We identified twisted bilayer α-graphyne and γ-graphyne as second-order topological insulators in 2D and real Chern insulators with higher-order hinge states in 3D, respectively, using combined first-principles calculations and theoretical modeling. The γ-graphyne is the first predicted 3D real Chern insulator material. We demonstrated the origin of higher-order topological states in these materials through effective moiré magnetism or Zeeman fields.<br />
 
 - **Binbin Liu** et al., _Second-order and real Chern topological insulator in twisted bilayer α-graphyne_, [Phys. Rev. B 106, 035153 (2022)](https://journals.aps.org/prb/export/10.1103/PhysRevB.106.035153).[[PDF](https://arxiv.org/pdf/2208.00115.pdf)]<br />
