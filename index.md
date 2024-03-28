@@ -3,7 +3,7 @@ layout: page
 title: 
 permalink: /
 ---
-{% include image.html url="assets/images/photo1.png" caption="" width="120px"  align="left" %}
+{% include image.html url="assets/images/photo1.jpg" caption="" width="182px"  align="left" %}
 
 <!--<h1 class="center">Binbin LIU</h1> -->
 
@@ -50,7 +50,7 @@ graphyne_, [Phys. Rev. B 106, 035153 (2022)](https://journals.aps.org/prb/abstra
 -->
 
 ## Contact
-Email: [bbliu@buaa.edu.cn]
+Email: [bbliu98@outlook.com]
 
 
 <!-- 
@@ -58,4 +58,4 @@ Binbin LIU, Beihang University <br />
 [Yavin] <br />-->
 [Yavin]: https://en.wikipedia.org/wiki/Yavin
 
-[bbliu@buaa.edu.cn]: mailto:bbliu@buaa.edu.cn
+[bbliu98@outlook.com]: mailto:bbliu98@outlook.com
