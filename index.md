@@ -3,7 +3,7 @@ layout: page
 title: 
 permalink: /
 ---
-{% include image.html url="assets/images/photo1.jpg" caption="" width="182px"  align="left" %}
+{% include image.html url="assets/images/photo2.jpg" caption="" width="136px"  align="left" %}
 
 <!--<h1 class="center">Binbin LIU</h1> -->
 
@@ -26,9 +26,11 @@ I am also excited about developing and applying electronic structure theories to
 <!--development and use of computational methods combining electronic structure and many-body approaches for explaining and predicting properties of materials with strong electronic correlations, and a strong research agenda in the field of quantum materials.-->
  
 ## Short CV
+2024-    : doctoral assistant, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. <br />
 2023-2024: Student,  National University of Singapore, Singapore. <br />
 2020-2023: M. S. in Physics, School of Physics, Beihang University, Beijing, China. <br />
 2016-2020: B. S. in Applied Physics, Honors College, Beihang University, Beijing, China. <br />
+[Full CV (last update: 05.2023)](assets/CV_Binbin_Liu.pdf)
 <!--You can also [view my latest full CV here](assets/CV_Binbin_Liu.pdf). 
 -->
 
@@ -50,7 +52,7 @@ graphyne_, [Phys. Rev. B 106, 035153 (2022)](https://journals.aps.org/prb/abstra
 -->
 
 ## Contact
-Email: [bbliu98@outlook.com]
+Email: [binbin.liu@epfl.ch]
 
 
 <!-- 
@@ -59,3 +61,4 @@ Binbin LIU, Beihang University <br />
 [Yavin]: https://en.wikipedia.org/wiki/Yavin
 
 [bbliu98@outlook.com]: mailto:bbliu98@outlook.com
+[binbin.liu@epfl.ch]: mailto:binbin.liu@epfl.ch
