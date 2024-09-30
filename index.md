@@ -26,7 +26,7 @@ I am also excited about developing and applying electronic structure theories to
 <!--development and use of computational methods combining electronic structure and many-body approaches for explaining and predicting properties of materials with strong electronic correlations, and a strong research agenda in the field of quantum materials.-->
  
 ## Short CV
-2024-    : doctoral assistant, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. <br />
+2024-    : Doctoral Assistant, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. <br />
 2023-2024: Student,  National University of Singapore, Singapore. <br />
 2020-2023: M. S. in Physics, School of Physics, Beihang University, Beijing, China. <br />
 2016-2020: B. S. in Applied Physics, Honors College, Beihang University, Beijing, China. <br />
