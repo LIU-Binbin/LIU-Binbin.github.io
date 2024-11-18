@@ -30,8 +30,8 @@ I am also excited about developing and applying electronic structure theories to
 2023-2024: Student,  National University of Singapore, Singapore. <br />
 2020-2023: M. S. in Physics, School of Physics, Beihang University, Beijing, China. <br />
 2016-2020: B. S. in Applied Physics, Honors College, Beihang University, Beijing, China. <br />
-[Full CV (last update: 05.2023)](assets/CV_Binbin_Liu.pdf)
-<!--You can also [view my latest full CV here](assets/CV_Binbin_Liu.pdf). 
+<!--[Full CV (last update: 05.2023)](assets/CV_Binbin_Liu.pdf)
+You can also [view my latest full CV here](assets/CV_Binbin_Liu.pdf). 
 -->
 
 
